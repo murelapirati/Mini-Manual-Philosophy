@@ -1,0 +1,107 @@
+{
+  "materia": "Filozofie",
+  "capitolul": "Problematica Naturii Umane",
+  "numar_capitol": 1,
+  "numar_subcapitol": 1,
+  "numar_lectie": 3,
+  "numar_identificare": "1-1-3",
+  "tip_lectie": "Predare",
+  "Obiective": [
+    "Analizarea întrebării fundamentale despre sensul vieții.",
+    "Compararea viziunilor filosofilor asupra absurdului, libertății și voinței de putere.",
+    "Explorarea impactului contextului cultural și existențial asupra sensului vieții.",
+    "Examinarea raportului dintre fericire, suferință și libertate."
+  ],
+  "Incadrare": {
+    "Autori": [
+      "Seneca",
+      "Arthur Schopenhauer",
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Friedrich Nietzsche",
+      "Emil Cioran"
+    ],
+    "Domeniu": "Filosofia existențială",
+    "Teme centrale": [
+      "Sensul vieții: existență predestinată sau construită?",
+      "Absurdul și condiția umană",
+      "Voința de putere și depășirea nihilismului",
+      "Raportul dintre suferință și înțelepciune"
+    ],
+    "Context": "Lecția analizează marile dezbateri filosofice despre rostul vieții, de la stoicismul antic până la existențialismul modern."
+  },
+  "Continut": {
+    "Întrebarea fundamentală despre sensul vieții": "Pentru mulți filosofi, sensul vieții este inima reflecției filosofice. Seneca susținea că sufletul trebuie să se elibereze de viciile lumii pentru a atinge înțelepciunea supremă.",
+    "Existențialismul și absurdul": "Jean-Paul Sartre afirmă că sensul vieții nu este predeterminat, ci creat prin alegeri individuale. Camus, în schimb, sugerează că viața este absurdă, iar omul trebuie să înfrunte acest absurd cu revoltă și luciditate.",
+    "Voința de putere și sensul vieții": "Pentru Nietzsche, esența vieții este voința de putere: existența nu are un scop extern, ci este definită prin forța interioară de autodepășire.",
+    "Suferința și condiția umană": "Cioran și Schopenhauer accentuează rolul suferinței în conturarea viziunii asupra vieții. Schopenhauer vede lumea ca o manifestare a dorinței nesatisfăcute, iar Cioran afirmă că suferința este o cale de eliberare spirituală."
+  },
+  "Incheiere": "Dezbaterea despre sensul vieții rămâne una dintre cele mai importante întrebări filosofice. Fie că este privită prin prisma absurdului, voinței de putere sau libertății absolute, sensul existenței este un subiect deschis interpretărilor și reflecțiilor individuale.",
+  "Evaluare": {
+    "Intrebari": [
+      {
+        "text": "Ce susține Albert Camus despre condiția umană?",
+        "optiuni": [
+          "A. Omul trebuie să își găsească un sens în Dumnezeu.",
+          "B. Viața este absurdă, dar omul trebuie să o accepte cu revoltă.",
+          "C. Sensul vieții este prestabilit prin destin.",
+          "D. Fericirea este o iluzie imposibil de atins."
+        ],
+        "raspuns_corect": "B"
+      },
+      {
+        "text": "Cum definește Nietzsche esența vieții?",
+        "optiuni": [
+          "A. Ca o luptă pentru supraviețuire.",
+          "B. Ca o căutare a binelui absolut.",
+          "C. Ca o manifestare a voinței de putere.",
+          "D. Ca o predestinare divină."
+        ],
+        "raspuns_corect": "C"
+      },
+      {
+        "text": "Care este perspectiva lui Sartre asupra sensului vieții?",
+        "optiuni": [
+          "A. Viața are un sens fixat dinainte de existență.",
+          "B. Sensul vieții este ales de fiecare individ prin alegerile sale.",
+          "C. Sensul vieții este dictat de societate.",
+          "D. Sensul vieții este determinat de instinctele biologice."
+        ],
+        "raspuns_corect": "B"
+      },
+      {
+        "text": "Cum vede Schopenhauer suferința?",
+        "optiuni": [
+          "A. Ca o cale spre eliberare spirituală.",
+          "B. Ca o pedeapsă divină.",
+          "C. Ca o iluzie generată de rațiune.",
+          "D. Ca un efect al societății moderne."
+        ],
+        "raspuns_corect": "A"
+      },
+      {
+        "text": "Ce rol are voința de putere în filosofia lui Nietzsche?",
+        "optiuni": [
+          "A. Reprezintă forța care determină evoluția umanității.",
+          "B. Este un concept religios.",
+          "C. Este o formă de supunere față de reguli.",
+          "D. Se referă la dorința de control asupra altora."
+        ],
+        "raspuns_corect": "A"
+      }
+    ]
+  },
+  "Teme si discutii": [
+    "Are viața un sens obiectiv sau este un construct individual?",
+    "Este absurdul o condiție fundamentală a existenței?",
+    "Cum influențează libertatea responsabilitatea personală?",
+    "Poate fi găsit sensul vieții în suferință?",
+    "Este voința de putere un principiu valid pentru existență?"
+  ],
+  "Imagini": [
+    "01-01-03-01-01.jpg",
+    "01-01-03-01-02.jpg",
+    "01-01-03-02-01.jpg",
+    "01-01-03-02-02.jpg"
+  ]
+}

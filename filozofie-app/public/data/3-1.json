@@ -1,0 +1,51 @@
+{
+    "capitolul": "Politica",
+    "numar_capitol": 3,
+    "numar_subcapitol": 1,
+    "numar_lectie": 1,
+    "titlu": "Introducere în Politică",
+    "Obiective": [
+        "Definirea conceptului de politică și a originilor sale",
+        "Analiza valorilor fundamentale ale politicii: libertatea, dreptatea, egalitatea",
+        "Explorarea perspectivei filosofice asupra libertății și responsabilității sociale",
+        "Înțelegerea diferitelor tipuri de dreptate și egalitate în societate"
+    ],
+    "Continut": {
+        "Definiția politicii": {
+            "Originea termenului": "Termenul 'politică' provine din limba greacă ('polis' - cetate). În sens larg, politica este arta de a guverna statul și de a adopta decizii comune pentru comunitate.",
+            "Elemente definitorii": "Dialog social între grupuri pentru luarea deciziilor. Instrumentul principal este puterea politică. Se manifestă la nivel local, național și internațional. Statul presupune permanența puterii în interes public.",
+            "Valori fundamentale": "Libertatea, Dreptatea, Egalitatea, Democrația."
+        },
+        "Libertatea și responsabilitatea social-politică": {
+            "Definiție": "Libertatea este absența constrângerilor și una dintre valorile centrale ale politicii.",
+            "Perspective filosofice": [
+                "Stoicismul: Libertatea este o stare ideală a naturii umane, independentă de factori externi.",
+                "Filosofii antici: Problema libertății este legată de moralitate.",
+                "Filosofii epocii moderne: Libertatea devine o valoare politică esențială.",
+                "Filosofii clasici: Libertatea înseamnă independență interioară bazată pe rațiune."
+            ]
+        }
+    },
+    "Evaluare": {
+        "Intrebari": [
+            {
+                "text": "Ce înseamnă termenul 'politică'?",
+                "optiuni": [
+                    "A) Puterea unui stat asupra altuia",
+                    "B) Arta de a guverna și a lua decizii comune",
+                    "C) O ideologie economică"
+                ],
+                "raspuns_corect": "B"
+            },
+            {
+                "text": "Care filosof a spus 'Omul este condamnat să fie liber'?",
+                "optiuni": [
+                    "A) John Locke",
+                    "B) Jean-Paul Sartre",
+                    "C) Immanuel Kant"
+                ],
+                "raspuns_corect": "B"
+            }
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+  "materia": "Filozofie",
+  "capitolul": "Morala",
+  "numar_capitol": 2,
+  "numar_subcapitol": 1,
+  "numar_lectie": 2,
+  "numar_identificare": "2-1-2",
+  "tip_lectie": "Predare",
+  "Obiective": [
+    "Compararea eticii teleologice cu etica deontologică.",
+    "Analizarea viziunii lui Aristotel, Epicur, John Stuart Mill și Kant asupra moralității.",
+    "Evaluarea impactului conceptelor de bine și datorie în filosofia morală.",
+    "Aplicarea principiilor morale la situații din viața cotidiană."
+  ],
+  "Incadrare": {
+    "Autori": [
+      "Aristotel",
+      "Epicur",
+      "John Stuart Mill",
+      "Immanuel Kant"
+    ],
+    "Domeniu": "Etică și Filosofie Morală",
+    "Teme centrale": [
+      "Teleologism vs. Deontologism",
+      "Eudemonism și etica virtuții (Aristotel)",
+      "Hedonism și Utilitarism (Epicur, Mill)",
+      "Imperativul categoric (Kant)"
+    ],
+    "Context": "Lecția analizează două mari direcții ale eticii: teleologismul, care se concentrează pe scopul acțiunilor morale, și deontologismul, care pune accent pe datorie și reguli universale."
+  },
+  "Continut": {
+    "Etica teleologică": "Eticile teleologice definesc moralitatea în funcție de scopul final al acțiunilor. Aristotel considera că binele suprem este eudaimonia (fericirea), iar aceasta poate fi atinsă prin cultivarea virtuților și printr-o viață rațională. Epicur, în schimb, vedea fericirea ca lipsa durerii și trăirea unei vieți cumpătate, evitând excesele.",
+    "Hedonism și utilitarism": "Epicur susținea că plăcerea este binele suprem, dar nu orice plăcere trebuie urmată, ci doar cele care aduc o stare de liniște sufletească (ataraxie). Mill, dezvoltând utilitarismul, considera că acțiunile morale sunt cele care maximizează fericirea colectivă, nu doar plăcerea individuală.",
+    "Etica deontologică": "Immanuel Kant a contestat ideea că moralitatea este determinată de consecințe. El susținea că acțiunile trebuie să fie realizate din datorie, conform unui principiu universalizabil. Imperativul său categoric afirmă că omul trebuie tratat întotdeauna ca un scop, nu doar ca un mijloc.",
+    "Datoria și moralitatea absolută": "Spre deosebire de teleologi, Kant considera că anumite acțiuni sunt întotdeauna corecte sau greșite, indiferent de rezultate. De exemplu, minciuna este imorală, chiar dacă ar aduce beneficii pe termen scurt."
+  },
+  "Incheiere": "Diferența fundamentală dintre etica teleologică și cea deontologică constă în raportarea la moralitate: prima se bazează pe scopul final, în timp ce a doua pune accent pe reguli universale și datorie. Ambele perspective au influențat profund gândirea filosofică modernă și continuă să fie subiecte de dezbatere în etica aplicată.",
+  "Evaluare": {
+    "Intrebari": [
+      {
+        "text": "Ce susținea Aristotel despre binele suprem?",
+        "optiuni": [
+          "A. Este definit de voința divină.",
+          "B. Este eudaimonia, fericirea atinsă prin virtute și rațiune.",
+          "C. Este maximizarea plăcerii personale.",
+          "D. Este determinat de dorințele fiecărei persoane."
+        ],
+        "raspuns_corect": "B"
+      },
+      {
+        "text": "Care este diferența dintre hedonismul lui Epicur și cel al lui Aristip din Cirene?",
+        "optiuni": [
+          "A. Epicur vede plăcerea ca echilibru și liniște sufletească, Aristip ca satisfacție senzorială imediată.",
+          "B. Epicur consideră că plăcerea este un viciu, Aristip o promovează.",
+          "C. Aristip considera că suferința este mai importantă decât plăcerea.",
+          "D. Epicur respingea complet plăcerile fizice."
+        ],
+        "raspuns_corect": "A"
+      },
+      {
+        "text": "Cum definește John Stuart Mill principiul utilității?",
+        "optiuni": [
+          "A. Fericirea colectivă trebuie maximizată, nu doar cea individuală.",
+          "B. Moralitatea depinde exclusiv de intențiile indivizilor.",
+          "C. Utilitarismul exclude orice formă de suferință.",
+          "D. Fericirea este determinată doar de bogăție și putere."
+        ],
+        "raspuns_corect": "A"
+      },
+      {
+        "text": "Ce este imperativul categoric la Kant?",
+        "optiuni": [
+          "A. O regulă morală care trebuie urmată indiferent de consecințe.",
+          "B. O lege morală relativă fiecărei culturi.",
+          "C. O etică bazată pe plăcere și dorințe personale.",
+          "D. O teorie care susține că moralitatea nu este importantă."
+        ],
+        "raspuns_corect": "A"
+      },
+      {
+        "text": "Ce critică i se aduce eticii kantiene?",
+        "optiuni": [
+          "A. Este prea rigidă și nu ia în calcul situațiile excepționale.",
+          "B. Promovează plăcerea ca scop suprem.",
+          "C. Se bazează exclusiv pe emoții și sentimente.",
+          "D. Nu oferă reguli clare pentru acțiuni morale."
+        ],
+        "raspuns_corect": "A"
+      }
+    ]
+  },
+  "Teme si discutii": [
+    "Este moralitatea determinată de scopul acțiunilor sau de respectarea regulilor?",
+    "Este fericirea criteriul principal al unei vieți morale?",
+    "Poate fi imperativul categoric aplicat în toate situațiile?",
+    "Ce rol joacă responsabilitatea în teoriile morale?",
+    "Este moral să minți pentru a preveni un rău mai mare?"
+  ],
+  "Imagini": [
+    "02-01-02-01-01.jpg",
+    "02-01-02-01-02.jpg",
+    "02-01-02-02-01.jpg",
+    "02-01-02-02-02.jpg"
+  ]
+}

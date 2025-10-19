@@ -1,0 +1,105 @@
+{
+  "materia": "Filozofie",
+  "capitolul": "Problematica Naturii Umane",
+  "numar_capitol": 1,
+  "numar_subcapitol": 1,
+  "numar_lectie": 2,
+  "numar_identificare": "1-1-2",
+  "tip_lectie": "Predare",
+  "titlu": "Omul ca ființă culturală",
+  "Obiective": [
+    "Analizarea conceptului de om ca ființă culturală.",
+    "Explorarea relației dintre cultură și identitatea umană.",
+    "Compararea viziunilor filosofilor asupra actului creator.",
+    "Examinarea rolului simbolurilor și miturilor în dezvoltarea culturii."
+  ],
+  "Incadrare": {
+    "Autori": [
+      "Lucian Blaga",
+      "Constantin Noica",
+      "Mircea Eliade"
+    ],
+    "Domeniu": "Filosofia culturii",
+    "Teme centrale": [
+      "Cultura ca expresie a umanității",
+      "Raportul dintre individ și comunitate în cultură",
+      "Dimensiunea metafizică a creației",
+      "Logica lui Ares și logica lui Hermes"
+    ],
+    "Context": "Lecția analizează modul în care omul se definește prin cultură și impactul acesteia asupra evoluției sale spirituale."
+  },
+  "Continut": {
+    "Cultura ca expresie a umanității": "Lucian Blaga considera că omul nu există doar pentru supraviețuire, ci și pentru a transcende imediatul. Cultura nu este un simplu lux al civilizației, ci esența modului de a fi uman.",
+    "Dimensiunea metafizică a culturii": "Blaga subliniază că omul este 'o ființă întru mister și pentru revelare'. Prin actul cultural, el încearcă să depășească limitele realității imediate și să creeze un univers al simbolurilor.",
+    "Raportul dintre individ și comunitate": "Constantin Noica face distincția între două tipuri de logică culturală: 'logica lui Ares', în care individul este subordonat colectivității, și 'logica lui Hermes', în care individul reflectă întregul. Cultura autentică este cea care armonizează aceste două dimensiuni.",
+    "Rolul simbolurilor în cultură": "Mircea Eliade evidențiază faptul că fiecare cultură își construiește propria identitate prin simboluri și mituri. Simbolurile nu doar reflectă realitatea, ci o și modelează, oferindu-i un sens profund."
+  },
+  "Incheiere": "Omul nu poate fi separat de cultură, deoarece aceasta este expresia nevoii sale de autodepășire. Fie că este văzută ca o manifestare artistică, ca un sistem de valori sau ca o dimensiune metafizică, cultura definește umanitatea și îi oferă sens.",
+  "Evaluare": {
+    "Intrebari": [
+      {
+        "text": "Cum definește Lucian Blaga cultura?",
+        "optiuni": [
+          "A. Ca un sistem de reguli impus de societate",
+          "B. Ca un act de supraviețuire biologică",
+          "C. Ca o manifestare a existenței întru mister și pentru revelare",
+          "D. Ca un produs exclusiv rațional"
+        ],
+        "raspuns_corect": "C"
+      },
+      {
+        "text": "Ce distincție face Constantin Noica între logica lui Ares și logica lui Hermes?",
+        "optiuni": [
+          "A. Logica lui Ares se bazează pe putere, iar cea a lui Hermes pe interpretare",
+          "B. Logica lui Ares reprezintă haosul, iar cea a lui Hermes ordinea",
+          "C. Logica lui Hermes subordonează individul, iar cea a lui Ares îl eliberează",
+          "D. Nu există nicio distincție reală între ele"
+        ],
+        "raspuns_corect": "A"
+      },
+      {
+        "text": "Ce rol joacă simbolurile în cultura, conform lui Mircea Eliade?",
+        "optiuni": [
+          "A. Sunt simple decorațiuni ale artei",
+          "B. Modelează realitatea și oferă sens existenței umane",
+          "C. Nu au nicio influență asupra omului",
+          "D. Sunt doar o parte a istoriei religioase"
+        ],
+        "raspuns_corect": "B"
+      },
+      {
+        "text": "Care este esența existenței umane, conform lui Blaga?",
+        "optiuni": [
+          "A. Căutarea confortului și a securității",
+          "B. Existența întru imediat și pentru conservare",
+          "C. Existența întru mister și pentru revelare",
+          "D. Simplul instinct de supraviețuire"
+        ],
+        "raspuns_corect": "C"
+      },
+      {
+        "text": "Cum se realizează împlinirea umană conform lui Noica?",
+        "optiuni": [
+          "A. Prin acumularea de bunuri materiale",
+          "B. Prin respectarea strictă a regulilor sociale",
+          "C. Prin cultivarea spiritului și asumarea unui destin creator",
+          "D. Prin conformarea la regulile politice"
+        ],
+        "raspuns_corect": "C"
+      }
+    ]
+  },
+  "Teme si discutii": [
+    "Poate exista om fără cultură?",
+    "Cum influențează simbolurile înțelegerea lumii?",
+    "Care este diferența dintre civilizație și cultură?",
+    "Există o cultură universală sau fiecare popor are propriul sistem de valori?",
+    "Ce înseamnă a trăi autentic din punct de vedere cultural?"
+  ],
+  "Imagini": [
+    "01-01-02-01-01.jpg",
+    "01-01-02-01-02.jpg",
+    "01-01-02-02-01.jpg",
+    "01-01-02-02-02.jpg"
+  ]
+}

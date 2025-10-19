@@ -1,0 +1,108 @@
+{
+  "materia": "Filozofie",
+  "capitolul": "Morala",
+  "numar_capitol": 2,
+  "numar_subcapitol": 1,
+  "numar_lectie": 1,
+  "numar_identificare": "2-1-1",
+  "tip_lectie": "Predare",
+  "titlu": "Binele și răul în filosofie",
+  "Obiective": [
+    "Analizarea conceptului de bine și rău din perspectivă filosofică.",
+    "Compararea teoriilor despre morală în gândirea lui Nietzsche, Platon și Kant.",
+    "Examinarea relației dintre moralitate, utilitate și libertate.",
+    "Evaluarea impactului diferitelor tipuri de morală asupra societății."
+  ],
+  "Incadrare": {
+    "Autori": [
+      "Friedrich Nietzsche",
+      "Platon",
+      "Immanuel Kant",
+      "Epicur",
+      "John Stuart Mill"
+    ],
+    "Domeniu": "Etică și Filosofie Morală",
+    "Teme centrale": [
+      "Binele și răul: absolut sau relativ?",
+      "Morala de stăpân și morala de sclav (Nietzsche)",
+      "Binele suprem și ideea binelui (Platon)",
+      "Moralitatea ca datorie (Kant)",
+      "Utilitarismul și moralitatea acțiunii (Mill)"
+    ],
+    "Context": "Lecția analizează dezbaterile filosofice asupra naturii moralei, de la etica antică la teoriile moderne."
+  },
+  "Continut": {
+    "Binele și răul în filosofie": "Încă din Antichitate, binele și răul au fost teme centrale în reflecția filosofică. Platon considera că binele este sursa tuturor virtuților și principiul suprem al existenței, în timp ce Nietzsche argumenta că nu există bine și rău absolut, ci doar valori create de cei puternici pentru a domina cei slabi.",
+    "Morala de stăpân și morala de sclav": "Nietzsche introduce distincția dintre două tipuri de morală: morala de stăpân, caracterizată de forță, autodeterminare și libertate, și morala de sclav, bazată pe resentiment, obediență și valori utile supraviețuirii. Pentru Nietzsche, conceptul de bine și rău este rezultatul unui conflict între aceste două tipuri de moralitate.",
+    "Binele suprem și ideea binelui": "Platon susținea că binele suprem este principala realitate metafizică, fiind sursa cunoașterii, dreptății și armoniei universale. Spre deosebire de această viziune absolută, Epicur considera că binele este legat de plăcere, iar Mill definea binele prin consecințele sale asupra fericirii colective.",
+    "Datoria morală și libertatea": "Kant propune o morală bazată pe datorie și imperativul categoric, conform căruia o acțiune este morală doar dacă poate deveni lege universală. Această viziune contrastează cu utilitarismul lui Mill, care măsoară binele prin efectele sale asupra societății."
+  },
+  "Incheiere": "De-a lungul istoriei filosofiei, binele și răul au fost definite din perspective diferite: fie ca principii absolute, fie ca valori relative determinate de voința umană. Înțelegerea acestor concepte rămâne esențială pentru reflecția morală contemporană.",
+  "Evaluare": {
+    "Intrebari": [
+      {
+        "text": "Ce susținea Nietzsche despre bine și rău?",
+        "optiuni": [
+          "A. Sunt principii absolute stabilite de Dumnezeu.",
+          "B. Sunt valori create de cei puternici și adoptate de cei slabi.",
+          "C. Binele este definit doar de plăcere.",
+          "D. Binele și răul nu au nicio relevanță filosofică."
+        ],
+        "raspuns_corect": "B"
+      },
+      {
+        "text": "Cum definea Platon binele suprem?",
+        "optiuni": [
+          "A. Ca fiind principiul fundamental al cunoașterii și dreptății.",
+          "B. Ca fiind doar o iluzie socială.",
+          "C. Ca fiind determinat de plăcere.",
+          "D. Ca o regulă creată de fiecare individ."
+        ],
+        "raspuns_corect": "A"
+      },
+      {
+        "text": "Ce distincție face Nietzsche între morala de stăpân și cea de sclav?",
+        "optiuni": [
+          "A. Morala de stăpân este bazată pe putere și autodeterminare, iar cea de sclav pe resentiment și obediență.",
+          "B. Ambele sunt forme egale de moralitate.",
+          "C. Morala de sclav este superioară celei de stăpân.",
+          "D. Morala nu joacă niciun rol în evoluția societății."
+        ],
+        "raspuns_corect": "A"
+      },
+      {
+        "text": "Ce înseamnă imperativul categoric la Kant?",
+        "optiuni": [
+          "A. Orice acțiune trebuie să fie universal aplicabilă ca lege morală.",
+          "B. Moralitatea este determinată de plăcere.",
+          "C. Nu există o bază rațională pentru moralitate.",
+          "D. Morala este relativă și subiectivă."
+        ],
+        "raspuns_corect": "A"
+      },
+      {
+        "text": "Care filosof considera că binele moral este determinat de consecințele unei acțiuni?",
+        "optiuni": [
+          "A. Immanuel Kant",
+          "B. John Stuart Mill",
+          "C. Platon",
+          "D. Friedrich Nietzsche"
+        ],
+        "raspuns_corect": "B"
+      }
+    ]
+  },
+  "Teme si discutii": [
+    "Este binele un principiu absolut sau relativ?",
+    "Care sunt diferențele dintre morala de stăpân și morala de sclav?",
+    "Ce criterii ar trebui să stea la baza moralității?",
+    "Este mai importantă intenția sau consecința unei acțiuni morale?",
+    "Cum influențează libertatea interpretarea binelui și răului?"
+  ],
+  "Imagini": [
+    "02-01-01-01-01.jpg",
+    "02-01-01-01-02.jpg",
+    "02-01-01-02-01.jpg",
+    "02-01-01-02-02.jpg"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "capitolul": "Politica",
+  "numar_capitol": 3,
+  "numar_subcapitol": 1,
+  "numar_lectie": 1,
+  "titlu": "Politica și Originile Sale",
+  "Obiective": [
+    "Definirea conceptului de politică și a originilor sale",
+    "Analiza funcțiilor și valorilor fundamentale ale politicii",
+    "Explorarea relației dintre politică și putere"
+  ],
+  "Continut": {
+    "1. Definiția politicii": {
+      "Originea termenului": "Termenul 'politică' provine din grecescul 'polis', referindu-se la organizarea și guvernarea cetății. În timp, conceptul s-a extins, incluzând structurile moderne de putere și administrație.",
+      "Funcțiile politicii": [
+        "Stabilirea regulilor sociale și menținerea ordinii",
+        "Distribuția și exercitarea puterii",
+        "Gestionarea resurselor și deciziilor colective"
+      ],
+      "Valori fundamentale": [
+        "Libertatea – asigurarea drepturilor fundamentale ale cetățenilor",
+        "Dreptatea – distribuirea echitabilă a resurselor și aplicarea legilor",
+        "Egalitatea – oferirea acelorași oportunități pentru toți cetățenii",
+        "Democrația – participarea activă a cetățenilor în procesul decizional"
+      ]
+    },
+    "2. Politica și puterea": {
+      "Definiție": "Puterea este elementul central al politicii, reprezentând capacitatea de a influența deciziile și comportamentele sociale.",
+      "Tipuri de putere": {
+        "Putere coercitivă": "Folosirea forței sau a amenințărilor pentru a impune decizii (ex: dictaturi).",
+        "Putere legitimă": "Acceptarea autorității de către cetățeni (ex: guverne democratice).",
+        "Putere economică": "Influența exercitată prin controlul resurselor financiare.",
+        "Putere ideologică": "Influența asupra valorilor și credințelor sociale."
+      },
+      "Relația dintre politică și putere": "În democrațiile moderne, puterea politică este distribuită prin separația puterilor în stat (executivă, legislativă, judecătorească), prevenind abuzurile și asigurând echilibrul social."
+    }
+  },
+  "Evaluare": {
+    "Intrebari": [
+      {
+        "text": "Ce înseamnă termenul 'politică'?",
+        "optiuni": [
+          "A) Procesul de administrare a cetății",
+          "B) O ideologie filosofică",
+          "C) Un sistem economic"
+        ],
+        "raspuns_corect": "A"
+      },
+      {
+        "text": "Ce valoare fundamentală asigură participarea cetățenilor la procesul decizional?",
+        "optiuni": [
+          "A) Libertatea",
+          "B) Dreptatea",
+          "C) Democrația"
+        ],
+        "raspuns_corect": "C"
+      },
+      {
+        "text": "Ce tip de putere se bazează pe acceptarea autorității de către cetățeni?",
+        "optiuni": [
+          "A) Putere coercitivă",
+          "B) Putere legitimă",
+          "C) Putere economică"
+        ],
+        "raspuns_corect": "B"
+      }
+    ]
+  }
+}

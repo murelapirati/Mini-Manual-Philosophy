@@ -1,0 +1,108 @@
+{
+  "materia": "Filozofie",
+  "capitolul": "Problematica Naturii Umane",
+  "numar_capitol": 1,
+  "numar_subcapitol": 1,
+  "numar_lectie": 1,
+  "numar_identificare": "1-1-1",
+  "tip_lectie": "Predare",
+  "Obiective": [
+    "Explorarea diferitelor perspective filosofice asupra naturii umane.",
+    "Compararea teoriilor raționaliste, empiriste și existențialiste despre om.",
+    "Analizarea conceptului de alteritate și identitate.",
+    "Examinarea relației dintre om, societate și moralitate."
+  ],
+  "Incadrare": {
+    "Autori": [
+      "Aristotel",
+      "René Descartes",
+      "David Hume",
+      "Immanuel Kant",
+      "Jean-Paul Sartre",
+      "Martin Heidegger",
+      "Lucian Blaga"
+    ],
+    "Domeniu": "Antropologie filosofică",
+    "Teme centrale": [
+      "Definirea omului: ființă rațională, morală și socială",
+      "Raționalism vs. empirism",
+      "Existențialism și problema libertății",
+      "Omul ca ființă culturală și creatoare"
+    ],
+    "Context": "Lecția analizează viziuni clasice și moderne asupra condiției umane, de la filosofia greacă la dezbaterile contemporane."
+  },
+  "Continut": {
+    "Perspective filosofice despre om": "De-a lungul istoriei, filozofii au încercat să definească natura umană. Aristotel considera omul ca fiind o ființă rațională și socială, în timp ce Descartes afirma că esența omului constă în cogniție: 'Gândesc, deci exist'. Empiristul David Hume, însă, accentua rolul experienței și al senzațiilor în definirea ființei umane.",
+    "Omul ca ființă morală și rațională": "Immanuel Kant propunea o viziune în care omul este o ființă duală: pe de o parte, dominată de instincte biologice, iar pe de altă parte, capabilă de moralitate și rațiune. El sublinia că omul trebuie tratat ca un scop în sine, nu doar ca mijloc pentru altcineva.",
+    "Existențialism și problema libertății": "În viziunea lui Sartre, 'omul nu este, ci devine'. Existențialismul respinge ideea unei naturi umane prestabilite, argumentând că fiecare individ își creează propria identitate prin alegerile sale. Heidegger, pe de altă parte, critica tradiția occidentală pentru că a redus omul la un simplu 'animal rațional', neglijând complexitatea existenței sale.",
+    "Omul ca ființă culturală": "Lucian Blaga considera că omul este singura ființă capabilă de creație culturală. Prin cultură, omul face un 'salt ontologic' de la animalitate la umanitate. Acest aspect evidențiază rolul conștiinței de sine și al imaginației în definirea identității umane."
+  },
+  "Incheiere": "Problematica naturii umane este una dintre temele fundamentale ale filosofiei. De la definiții rigide la concepții existențialiste, omul continuă să fie un subiect de reflecție și interpretare. Fie că este văzut ca ființă rațională, morală, socială sau creatoare, înțelegerea naturii umane rămâne deschisă reinterpretărilor.",
+  "Evaluare": {
+    "Intrebari": [
+      {
+        "text": "Cum definea Aristotel natura umană?",
+        "optiuni": [
+          "A. Ca o ființă pur biologică",
+          "B. Ca o ființă rațională și socială",
+          "C. Ca o ființă care doar simte",
+          "D. Ca o ființă determinată de instinct"
+        ],
+        "raspuns_corect": "B"
+      },
+      {
+        "text": "Care filosof considera că omul este definit prin cogniție ('Gândesc, deci exist')?",
+        "optiuni": [
+          "A. David Hume",
+          "B. Jean-Paul Sartre",
+          "C. René Descartes",
+          "D. Immanuel Kant"
+        ],
+        "raspuns_corect": "C"
+      },
+      {
+        "text": "Ce perspectivă filosofică susținea că omul nu are o natură prestabilită, ci își definește existența prin alegerile sale?",
+        "optiuni": [
+          "A. Empirismul",
+          "B. Existențialismul",
+          "C. Raționalismul",
+          "D. Determinismul"
+        ],
+        "raspuns_corect": "B"
+      },
+      {
+        "text": "Cum considera Kant că trebuie tratat omul?",
+        "optiuni": [
+          "A. Ca un mijloc pentru interesele altora",
+          "B. Ca o ființă biologică pură",
+          "C. Ca un scop în sine",
+          "D. Ca o parte a colectivității, fără identitate proprie"
+        ],
+        "raspuns_corect": "C"
+      },
+      {
+        "text": "Ce rol atribuia Lucian Blaga culturii în definirea omului?",
+        "optiuni": [
+          "A. Că este doar o expresie a biologicului",
+          "B. Că este doar un rezultat al societății",
+          "C. Că reprezintă saltul ontologic de la animalitate la umanitate",
+          "D. Că nu are nicio influență asupra identității umane"
+        ],
+        "raspuns_corect": "C"
+      }
+    ]
+  },
+  "Teme si discutii": [
+    "Este omul definit de esență sau de existență?",
+    "Rațiunea este o trăsătură exclusiv umană?",
+    "Poate exista umanitate fără cultură?",
+    "Există o definiție universală a naturii umane?",
+    "Cum influențează libertatea formarea identității personale?"
+  ],
+  "Imagini": [
+    "01-01-01-01-01.jpg",
+    "01-01-01-01-02.jpg",
+    "01-01-01-02-01.jpg",
+    "01-01-01-02-02.jpg"
+  ]
+}

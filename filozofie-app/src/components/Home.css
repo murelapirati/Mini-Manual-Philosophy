@@ -1,0 +1,75 @@
+/* Container principal */
+.home-container {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Stil pentru butoanele capitolelor */
+.chapter-btn {
+  display: block;
+  width: 60%;
+  margin: 10px auto;
+  padding: 15px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.chapter-btn.green {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.chapter-btn.blue {
+  background-color: #2196F3;
+  color: white;
+}
+
+.chapter-btn.yellow {
+  background-color: #FFC107;
+  color: black;
+}
+
+.chapter-btn:hover {
+  transform: scale(1.05);
+}
+
+/* Bibliografie buton */
+.bibliography-button {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  background-color: #FF9800;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+  transition: 0.3s;
+}
+
+.bibliography-button:hover {
+  background-color: #E68900;
+  transform: scale(1.05);
+}
+
+/* Galerie de imagini pe margini */
+.image-gallery {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.image-gallery img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}

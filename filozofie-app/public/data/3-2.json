@@ -1,0 +1,58 @@
+{
+  "capitolul": "Politica",
+  "numar_capitol": 3,
+  "numar_subcapitol": 1,
+  "numar_lectie": 2,
+  "titlu": "Libertatea, Dreptatea și Egalitatea în Politică",
+  "Obiective": [
+    "Explorarea conceptului de libertate și implicațiile sale sociale",
+    "Analiza diferitelor tipuri de dreptate și rolul lor în politică",
+    "Înțelegerea principiilor egalității și aplicarea lor în societate"
+  ],
+  "Continut": {
+    "Libertatea și responsabilitatea": {
+      "Definiție": "Libertatea este capacitatea individului de a acționa fără constrângeri externe, având însă responsabilitatea deciziilor luate.",
+      "Perspective filosofice": [
+        "John Locke: Libertatea este un drept natural inalienabil.",
+        "Jean-Jacques Rousseau: Libertatea trebuie garantată printr-un contract social.",
+        "John Stuart Mill: Libertatea individuală trebuie protejată de interferența statului."
+      ],
+      "Tipuri de libertate": "Libertate pozitivă: Capacitatea de a acționa conform propriilor dorințe. Libertate negativă: Absența restricțiilor externe asupra individului. Libertate politică: Dreptul de a participa la viața publică."
+    },
+    "Dreptatea": {
+      "Definiție": "Dreptatea reprezintă distribuirea echitabilă a resurselor și aplicarea corectă a legilor.",
+      "Perspective filosofice": [
+        "Platon: Dreptatea este armonia dintre clasele sociale.",
+        "John Rawls: Dreptatea înseamnă echitate, iar inegalitățile sunt permise doar dacă aduc beneficii tuturor.",
+        "Aristotel: Dreptatea trebuie aplicată în funcție de merit."
+      ],
+      "Tipuri de dreptate": "Dreptate socială: Distribuirea corectă a resurselor economice. Dreptate procedurală: Aplicarea echitabilă a legilor. Dreptate corectivă: Repararea nedreptăților prin compensații."
+    },
+    "Egalitatea în politică": {
+      "Definiție": "Egalitatea presupune accesul tuturor cetățenilor la aceleași drepturi și oportunități.",
+      "Tipuri de egalitate": "Egalitate juridică: Toți cetățenii sunt egali în fața legii. Egalitate politică: Dreptul de a vota și de a fi ales. Egalitate economică: Distribuția echitabilă a resurselor. Egalitate de șanse: Acces echitabil la educație și muncă."
+    }
+  },
+  "Evaluare": {
+    "Intrebari": [
+      {
+        "text": "Ce filosof considera libertatea un drept natural inalienabil?",
+        "optiuni": [
+          "A) Jean-Jacques Rousseau",
+          "B) John Locke",
+          "C) Platon"
+        ],
+        "raspuns_corect": "B"
+      },
+      {
+        "text": "Ce tip de dreptate se referă la distribuția corectă a resurselor economice?",
+        "optiuni": [
+          "A) Dreptate procedurală",
+          "B) Dreptate corectivă",
+          "C) Dreptate socială"
+        ],
+        "raspuns_corect": "C"
+      }
+    ]
+  }
+}
